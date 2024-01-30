@@ -1,0 +1,68 @@
+/* styles.css */
+
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.form-label {
+  font-weight: bold;
+}
+
+.form-control {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.btn-primary {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+
+.container h2{
+  margin-left: 100px;
+    margin-bottom: 20px;
+    font-size: 22px;
+    font-family: serif;
+    font-weight: 545;
+    
+    
+}
+.form-label{
+  font-family: serif;
+}
+
+.container p{
+  color:green;
+}
+
+.fade-out {
+  opacity: 0;
+  transition: opacity 2s ease-out; /* Adjust the duration as needed */
+}
+
+
+.loginHeader{
+  padding-left: 25px;
+
+}
+
+.mb-3 p{
+color:red;
+}
